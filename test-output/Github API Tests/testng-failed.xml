@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Github API Tests]">
+  <test name="API Automation Tests(failed)">
+    <classes>
+      <class name="com.github.tests.TestCase">
+        <methods>
+          <include name="test"/>
+        </methods>
+      </class> <!-- com.github.tests.TestCase -->
+    </classes>
+  </test> <!-- API Automation Tests(failed) -->
+</suite> <!-- Failed suite [Github API Tests] -->
